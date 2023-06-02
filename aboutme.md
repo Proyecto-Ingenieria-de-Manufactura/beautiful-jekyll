@@ -31,5 +31,3 @@ Recientemente, los estudiantes presentaron su prototipo mejorado a la planta de 
 Es importante destacar el logro alcanzado por este grupo de estudiantes de ingeniería mecánica. Han aplicado sus conocimientos teóricos y habilidades técnicas en un proyecto real y han contribuido directamente a la mejora de la industria. Además, han demostrado la importancia de la colaboración y la búsqueda de soluciones innovadoras para abordar los desafíos actuales.
 
 Este proyecto es un testimonio del potencial y la dedicación de nuestros estudiantes de ingeniería mecánica. No solo están adquiriendo habilidades académicas, sino que también están desarrollando la capacidad de enfrentar problemas complejos y encontrar soluciones prácticas.
-
-Felicitamos a este grupo de estudiantes y esperamos con interés ver cómo sus logros continúan impactando positivamente en el campo de la ingeniería mecánica.

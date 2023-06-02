@@ -9,7 +9,7 @@ Somos un grupo de ingenieria mecanica de la asignatura Ingenieria de Manufactura
 - Miguel Viafara
 - Daniel Vanegas
 - Gabriela Pardo
-- Nicolas A
+- Nicolas Arcos
 - Felipe Zambrano
 - Julian Rueda
 

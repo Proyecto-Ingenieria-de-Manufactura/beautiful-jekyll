@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre nosotros
-subtitle: Why you'd want to go on a date with me
+subtitle: Proyecto IM-2023
 ---
 
 Somos un grupo de ingenieria mecanica de la asignatura Ingenieria de Manufactura:
@@ -13,9 +13,8 @@ Somos un grupo de ingenieria mecanica de la asignatura Ingenieria de Manufactura
 - Felipe Zambrano
 - Julian Rueda
 
-### My story
+### Nuestro proyecto
 
-Estimados lectores,
 
 Me complace informarles sobre un proyecto en curso llevado a cabo por un grupo de destacados estudiantes de ingeniería mecánica en nuestra institución académica. Este grupo se ha embarcado en una tarea desafiante pero valiosa: mejorar el proceso de cocción del coque en una planta de zámaca.
 
@@ -34,5 +33,3 @@ Es importante destacar el logro alcanzado por este grupo de estudiantes de ingen
 Este proyecto es un testimonio del potencial y la dedicación de nuestros estudiantes de ingeniería mecánica. No solo están adquiriendo habilidades académicas, sino que también están desarrollando la capacidad de enfrentar problemas complejos y encontrar soluciones prácticas.
 
 Felicitamos a este grupo de estudiantes y esperamos con interés ver cómo sus logros continúan impactando positivamente en el campo de la ingeniería mecánica.
-
-Atentamente
